@@ -159,6 +159,6 @@ The project also highlights practical usage of:
 
 ---
 
-## 👨‍💻
+## 👨‍💻 Project By
 
 Neil Majumdar
