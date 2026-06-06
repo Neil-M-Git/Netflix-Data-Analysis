@@ -1,4 +1,4 @@
-# Netflix Data Analytics Project
+# 🚀 Netflix Data Analytics Project
 
 ## 🌐 Overview
 
@@ -161,4 +161,4 @@ The project also highlights practical usage of:
 
 ## 👨‍💻
 
-Neil M
+Neil Majumdar
