@@ -1,8 +1,8 @@
 # Netflix Data Analytics Project
 
-## Overview
+## 🌐 Overview
 
-This project analyzes Netflix movies and TV shows data using Python libraries such as Pandas, Matplotlib, and Seaborn.
+This simple project analyzes Netflix movies and TV shows data using Python libraries such as Pandas, Matplotlib, and Seaborn.
 
 The objective of this project is to perform Exploratory Data Analysis (EDA) on Netflix content and uncover insights related to:
 - Content distribution
@@ -13,10 +13,11 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) on N
 
 ---
 
-## Dataset Used
+## 📊 Dataset Used
 
 - Dataset: Netflix Movies and TV Shows
 - Source: Kaggle
+- Link: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 Dataset includes:
 - Movie and TV show titles
@@ -30,7 +31,7 @@ Dataset includes:
 
 ---
 
-## Technologies Used
+## 👨‍💼 Technologies Used
 
 - Python
 - Pandas
@@ -40,7 +41,7 @@ Dataset includes:
 
 ---
 
-## Project Structure
+## 🗒️ Project Structure
 
 ```
 
@@ -65,7 +66,7 @@ visuals/
 
 ---
 
-## Data Cleaning Performed
+## 📈 Data Cleaning Performed
 
 The following preprocessing steps were performed:
 
@@ -77,7 +78,7 @@ The following preprocessing steps were performed:
 
 ---
 
-## Analysis Performed
+## 🧪 Analysis Performed
 
 ### 1. Movies vs TV Shows
 
@@ -101,7 +102,7 @@ Identified the most popular genres on Netflix.
 
 ---
 
-## Key Insights
+## ✍️ Key Insights
 
 - Movies dominate Netflix content compared to TV Shows.
 - The United States contributes the highest amount of Netflix content.
@@ -111,7 +112,7 @@ Identified the most popular genres on Netflix.
 
 ---
 
-## Visualizations
+## 🖼️ Visualizations
 
 ### Movies vs TV Shows
 
@@ -143,7 +144,7 @@ Identified the most popular genres on Netflix.
 
 ---
 
-## Conclusion
+## ⭕️ Conclusion
 
 This project demonstrates how Python can be used for:
 - Data Cleaning
@@ -157,6 +158,7 @@ The project also highlights practical usage of:
 - Jupyter Notebook for interactive analysis
 
 ---
-## Author
+
+## 👨‍💻
 
 Neil M
